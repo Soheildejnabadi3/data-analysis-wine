@@ -1,5 +1,5 @@
 # data-analysis-wine
-##Data Analysis with Wine data
+## Data Analysis with Wine data
 
 In this data science project, I analyzed wine quality prediction using machine learning models including Logistic Regression, SVM, Decision Tree, and Random Forest. I evaluated each model's performance across multiple metrics such as accuracy, true positive rate, false positive rate, precision, and F-score.
 
